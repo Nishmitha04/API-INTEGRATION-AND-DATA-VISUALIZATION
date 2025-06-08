@@ -12,13 +12,12 @@ DURATION:6 WEEKS
 
 MENTOR:NEELA SANTOSH
 
-Objective: The objective was to develop a simple AI-based chatbot using Natural Language Processing (NLP) techniques. The aim was to enable a chatbot to interpret user input and respond accordingly using the spaCy library, one of the most powerful and efficient NLP tools in Python. The chatbot is expected to handle basic user queries like greetings, farewells, and questions about its identity and capabilities.
-
+Objective: The objective is to createban API INTEGRATION-AND DATA VISUALIZATION
 Tools and Technologies Used: Programming Language: Python
 
 NLP Library: spaCy (en_core_web_sm model)
 
-IDE/Editor: Visual Studio Code
+IDE/Editor: pycharm
 
 Version Control & Hosting: GitHub
 
